@@ -1,2 +1,3 @@
 # hello-world
-My First Repository
+This is Narsi and trying to learn something new.
+Need to be good learner
